@@ -1,5 +1,5 @@
 # GitBash_Linux_Terminal
-`HW about GitBush/Linux_Terminal comands`
+HW about GitBush/Linux_Terminal comands
 
 ## [GitBush_HW_1-Basic](https://github.com/Pavlik1100/QA_practice_welcom_again/tree/Linux_terminal_GitBash_comands/GitBush_HW_1-Basic)
 ```sh
